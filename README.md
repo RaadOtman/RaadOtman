@@ -41,6 +41,16 @@ Junior developer focused on frontend development and modern web technologies.
 
 ---
 
+## Currently working on
+
+- Personal portfolio
+- React projects
+- Responsive interfaces
+- Improving backend fundamentals
+- Building a stronger developer portfolio
+
+---
+
 ## Featured project
 
 <table>
@@ -59,26 +69,6 @@ Junior developer focused on frontend development and modern web technologies.
     </td>
   </tr>
 </table>
-
----
-
-## GitHub overview
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=RaadOtman&show_icons=true&theme=transparent&hide_border=true&title_color=1f6feb&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github&cache_seconds=86400"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaadOtman&layout=donut&theme=transparent&hide_border=true&title_color=1f6feb&text_color=c9d1d9&langs_count=6&cache_seconds=86400"
-    alt="Top languages"
-  />
-</p>
 
 ---
 
