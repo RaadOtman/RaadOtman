@@ -1,114 +1,112 @@
-<h1 align="center">Hey, I'm Otman 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Otman%20Raad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Frontend%20Developer&descAlignY=60&descAlign=50"/>
+</p>
+
+<h3 align="center">
+Junior Frontend Developer · React · JavaScript · Clean UI
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Junior+Frontend+Developer;React+%2B+Modern+Web+Projects;Clean+UI+and+Creative+Code" alt="Typing SVG" />
+Focused on building modern web interfaces, improving every day and creating real projects with React and JavaScript.
 </p>
 
 <p align="center">
-  <strong>Junior Frontend Developer</strong> · React · JavaScript · Clean UI
-</p>
-
-<p align="center">
-  Junior developer focused on building modern web interfaces, learning fast and creating real projects with React and JavaScript.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaadOtman&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
-</p>
-
----
-
-## About me
-
-- Junior Frontend Developer
-- I enjoy building modern interfaces with React
-- Building real projects for my portfolio
-- Improving in JavaScript, React and web architecture
-- Interested in tech, design and user experience
-
----
-
-## Tech I work with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,mysql,git,github,vscode&perline=5" alt="Tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%26%20JavaScript-1f6feb?style=for-the-badge" alt="Frontend React and JavaScript" />
-  <img src="https://img.shields.io/badge/UI-Clean%20and%20Modern-111827?style=for-the-badge" alt="Clean and Modern UI" />
-  <img src="https://img.shields.io/badge/Current%20Focus-Real%20Projects-0f766e?style=for-the-badge" alt="Current focus real projects" />
+  <img src="https://komarev.com/ghpvc/?username=RaadOtman&label=Profile%20views&color=1f6feb&style=flat" />
 </p>
 
 ---
 
-## Current focus
+# About me
 
-- Personal portfolio
-- React projects
-- Clean and responsive interfaces
-- Improving MySQL and backend fundamentals
+Junior developer focused on frontend development and modern web technologies.
+
+- Building real projects for my portfolio  
+- Interested in UI, UX and clean design  
+- Improving JavaScript, React and web architecture  
+- Always learning and improving  
 
 ---
 
-## Featured project
+# Tech I work with
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,mysql,git,github,vscode&perline=5"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Frontend-React%20%26%20JavaScript-1f6feb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI-Clean%20Interfaces-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Real%20Projects-0f766e?style=for-the-badge"/>
+</p>
+
+---
+
+# Featured project
 
 <table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>Portfolio Otman</h3>
-      <p>Personal portfolio built to present my work, style and growth as a junior frontend developer.</p>
-      <p>
-        <a href="https://github.com/RaadOtman/portfolio-otman">
-          <img src="https://img.shields.io/badge/Repository-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-        </a>
-        <a href="https://otmandev.vercel.app">
-          <img src="https://img.shields.io/badge/Live%20Demo-Open-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="100%" valign="top">
+
+### Portfolio Otman
+
+Personal portfolio built to present my work, projects and development progress as a junior frontend developer.
+
+<p>
+<a href="https://github.com/RaadOtman/portfolio-otman">
+<img src="https://img.shields.io/badge/Repository-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://otmandev.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Demo-Open-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## GitHub stats
+# GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RaadOtman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaadOtman&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RaadOtman&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RaadOtman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## Contributions
-
-<p align="center">
-  <img src="https://github.com/RaadOtman/RaadOtman/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaadOtman&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## Connect with me
+# Contributions
 
 <p align="center">
-  <a href="https://linkedin.com/in/otman-raad-951044353">
-    <img src="https://img.shields.io/badge/LinkedIn-Otman%20Raad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://otmandev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:otman.trader@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<img src="https://github.com/RaadOtman/RaadOtman/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# Connect with me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/otman-raad-951044353">
+<img src="https://img.shields.io/badge/LinkedIn-Otman%20Raad-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://otmandev.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:otman.trader@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <strong>Clean code. Real projects. Constant progress.</strong>
+<strong>Clean code. Real projects. Constant progress.</strong>
 </p>
