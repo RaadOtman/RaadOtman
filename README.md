@@ -5,93 +5,78 @@
 </p>
 
 <p align="center">
-  ⚛️ Junior Frontend Developer · 🎨 Clean UI · 🚀 React Projects
+  <strong>Junior Frontend Developer</strong> · React · JavaScript · Clean UI
 </p>
 
 <p align="center">
-  Junior Frontend Developer focused on building modern web interfaces, learning fast and creating real projects with React and JavaScript.
+  Junior developer focused on building modern web interfaces, learning fast and creating real projects with React and JavaScript.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaadOtman&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RaadOtman&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## ✨ About me
+## About me
 
-- 👨‍💻 Junior Frontend Developer
-- ⚛️ Me gusta crear interfaces modernas con React
-- 🎯 Construyendo proyectos reales para mi portfolio
-- 🧠 Mejorando en JavaScript, React y arquitectura web
-- 🏂 Tech, diseño y snowboard
+- Junior Frontend Developer
+- I enjoy building modern interfaces with React
+- Building real projects for my portfolio
+- Improving in JavaScript, React and web architecture
+- Interested in tech, design and user experience
 
 ---
 
-## 🛠️ Tech stack
+## Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,mysql,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,mysql,git,github,vscode&perline=5" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-1f6feb?style=for-the-badge" alt="Frontend Development" />
-  <img src="https://img.shields.io/badge/Style-Clean%20UI-111827?style=for-the-badge" alt="Clean UI" />
-  <img src="https://img.shields.io/badge/Current%20stack-React%20%2B%20Vite-61dafb?style=for-the-badge&logo=react&logoColor=000" alt="React and Vite" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%26%20JavaScript-1f6feb?style=for-the-badge" alt="Frontend React and JavaScript" />
+  <img src="https://img.shields.io/badge/UI-Clean%20and%20Modern-111827?style=for-the-badge" alt="Clean and Modern UI" />
+  <img src="https://img.shields.io/badge/Current%20Focus-Real%20Projects-0f766e?style=for-the-badge" alt="Current focus real projects" />
 </p>
 
 ---
 
-## 🔥 Current projects
+## Current focus
 
-- 🎾 Padel booking app
-- 🌐 Personal portfolio
-- ✅ Task manager with login
-- 🛒 Mini e-commerce
-- 🗄️ Improving MySQL and backend skills
+- Personal portfolio
+- React projects
+- Clean and responsive interfaces
+- Improving MySQL and backend fundamentals
 
 ---
 
-## 🚀 Featured projects
+## Featured project
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🎾 Padel Booking App</h3>
-      <p>Proyecto centrado en reservas, experiencia de usuario y estructura real de aplicación web.</p>
-    </td>
-    <td width="50%">
-      <h3>💈 Barbershop Website</h3>
-      <p>Web visual y moderna pensada para negocio real, con diseño limpio y enfoque responsive.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>✅ Task Manager</h3>
-      <p>Gestor de tareas con login, organización de contenido y práctica de lógica web.</p>
-    </td>
-    <td width="50%">
-      <h3>🛒 Mini E-commerce</h3>
-      <p>Proyecto de práctica para trabajar interacción, estructura frontend y experiencia visual.</p>
+    <td width="100%" valign="top">
+      <h3>Portfolio Otman</h3>
+      <p>Personal portfolio built to present my work, style and growth as a junior frontend developer.</p>
+      <p>
+        <a href="https://github.com/RaadOtman/portfolio-otman">
+          <img src="https://img.shields.io/badge/Repository-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+        </a>
+        <a href="https://otmandev.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-Open-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏆 GitHub trophies
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaadOtman&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
-</p>
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RaadOtman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaadOtman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RaadOtman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaadOtman&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -100,15 +85,15 @@
 
 ---
 
-## 🐍 Contributions
+## Contributions
 
 <p align="center">
-  <img src="https://github.com/RaadOtman/RaadOtman/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/RaadOtman/RaadOtman/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
 ---
 
-## 🌍 Connect with me
+## Connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/otman-raad-951044353">
@@ -125,5 +110,5 @@
 ---
 
 <p align="center">
-  <b>Clean code. Fresh ideas. Constant progress.</b> ✨
+  <strong>Clean code. Real projects. Constant progress.</strong>
 </p>
