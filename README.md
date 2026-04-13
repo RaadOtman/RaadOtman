@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Otman%20Raad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Frontend%20Developer&descAlignY=60&descAlign=50" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Otman%20Raad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20Developer&descAlignY=60&descAlign=50" alt="Banner" />
 </p>
 
 <h3 align="center">
-  Junior Frontend Developer · React · JavaScript · Clean UI
+  Junior Web Developer · React · Node.js · JavaScript · Clean UI
 </h3>
 
 <p align="center">
-  Focused on building modern web interfaces, improving every day and creating real projects with React and JavaScript.
+  Focused on building complete web applications, improving every day and creating real fullstack projects with React and Node.js.
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ## About me
 
-Junior developer focused on frontend development and modern web technologies.
+Junior developer focused on fullstack web development and modern web technologies.
 
-- Building real projects for my portfolio
+- Building complete applications (frontend + backend) for my portfolio
 - Interested in UI, UX and clean design
-- Improving JavaScript, React and web architecture
+- Improving JavaScript, React, Node.js and web architecture
 - Always learning and improving
 
 ---
@@ -30,12 +30,12 @@ Junior developer focused on frontend development and modern web technologies.
 ## Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,mysql,git,github,vscode&perline=5" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php,mysql,git,github,vscode&perline=5" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%26%20JavaScript-1f6feb?style=for-the-badge" alt="Frontend React and JavaScript" />
-  <img src="https://img.shields.io/badge/UI-Clean%20Interfaces-111827?style=for-the-badge" alt="Clean Interfaces" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%26%20TypeScript-1f6feb?style=for-the-badge" alt="Frontend React and TypeScript" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%26%20Express-111827?style=for-the-badge" alt="Backend Node.js and Express" />
   <img src="https://img.shields.io/badge/Focus-Real%20Projects-0f766e?style=for-the-badge" alt="Real Projects" />
 </p>
 
@@ -43,16 +43,22 @@ Junior developer focused on frontend development and modern web technologies.
 
 ## Featured Project
 
-### 💈 Peluquería Web
+### PADEX — Final Degree Project
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RaadOtman/peluqueria-web/main/screenshots/preview.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/RaadOtman/proyecto-fin-grado/main/assets/home.png" width="700"/>
 </p>
 
-Modern barbershop website built with **React and Vite**, featuring responsive design and online booking integration.
+Complete fullstack web application built for my **TFG (Final Degree Project)**. PADEX is a padel court booking platform with real-time reservations, JWT authentication and a full admin panel.
+
+**Stack:** React · TypeScript · Vite · Node.js · Express · MySQL
+
+- 🔐 Login system with JWT and httpOnly cookies
+- 📅 Real-time court booking
+- 🛠️ Admin panel to manage users, courts and reservations
 
 <p align="center">
-  <a href="https://github.com/RaadOtman/peluqueria-web">
+  <a href="https://github.com/RaadOtman/proyecto-fin-grado">
     <img src="https://img.shields.io/badge/Repository-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
 </p>
@@ -61,9 +67,9 @@ Modern barbershop website built with **React and Vite**, featuring responsive de
 
 ## Currently working on
 
-- React projects
-- Responsive interfaces
-- Improving backend fundamentals
+- Fullstack applications (React + Node.js)
+- Responsive and clean interfaces
+- REST API design and backend fundamentals
 - Building a stronger developer portfolio
 
 ---
